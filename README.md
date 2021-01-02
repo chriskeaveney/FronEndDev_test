@@ -4,8 +4,8 @@
 
 ![](FrontEndDev/img/1.PNG)
 
-![](User-Interface-Prototype/FrontEndDev/img/2.png)
+![](FrontEndDev/img/2.PNG)
 
-![](User-Interface-Prototype/FrontEndDev/img/3.png)
+![](FrontEndDev/img/3.PNG)
 
-![](User-Interface-Prototype/FrontEndDev/img/4.png)
+![](FrontEndDev/img/4.PNG)

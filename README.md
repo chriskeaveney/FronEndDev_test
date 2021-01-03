@@ -1,4 +1,4 @@
-# User-Interface-Prototype
+# Web-Design-Prototype
 
 - Design concept for a website. Built using HTML, CSS, jQuery, JavaScript
 
